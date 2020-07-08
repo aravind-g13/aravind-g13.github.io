@@ -1,0 +1,26 @@
+html body{background-color:rgb(0,0,0,0.9);margin:15px;}
+textarea {
+  background-color:rgb(255,255,255,0.75);
+  border:1px;overflow:hidden;resize:none;
+  background-image: url(https://s7.gifyu.com/images/imagee76ecfa748cf08e8.md.png);
+  background-repeat:no-repeat;white-space:nowrap;
+  text-indent: 30px;outline:none;
+  padding:10px;width:60%;
+  height:45px; background-position: 10px 13px; border-radius:25px;background-size:20px; 
+}
+table{
+width:100%;table-layour:fixed;margin:15px;}
+td,th{
+padding-left:10px;padding-right:20px;
+}
+.bord{
+position:auto;border:1px solid rgb(255,255,255,0.3);}
+#bar{
+color:red;font-family:Proxima Nova,Candara;font-size:23px;text-indent:10px;
+}
+#foo{
+color:rgb(255,255,255,0.7);font-family:Candara,Arial;font-size:17px;
+}
+img{
+pointer-events:none;
+}
